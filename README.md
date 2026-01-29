@@ -12,9 +12,12 @@ Output is saved to `generated_galleries/<filename>`.
 
 ## Configuration
 
-The script is hardcoded for the specific gallery that appears in the pub. The styling and images used can be configured by editing the values in `generate_gallery.py`, but it is not designed with configuration in mind.
+The script is hardcoded for the specific gallery that appears in the pub. The styling and images used can be configured by editing the values in `generate_gallery.py`.
 
 ## Controls
 
 - **Click** the indicator pill to open the dropdown menu
 - **Arrow keys** or **chevron buttons** to navigate
+
+## AI usage
+We used Claude Opus 4.5 to help write and clean up code in `generate_gallery.py`.
